@@ -1,0 +1,11 @@
+partition #PeachPuff device_manager.sh {
+	: load check_mount() from device_manager.sh;
+	: start check mount status devices;
+	if (is the device mounted?) then (yes)
+		: pass;
+	else (no)
+		: Show error message and Exit;
+		kill
+	endif
+
+}
