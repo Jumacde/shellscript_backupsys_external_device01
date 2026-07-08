@@ -11,7 +11,7 @@ rectangle "backupsys01(main.sh)" {
 }
 user --> main
 main ..> mount: << include >>
-main --> device: << include >>
-main ..> log: << write data >>
+main --> device: << write data >>
+main ..> log: << include >>
 @enduml
 
