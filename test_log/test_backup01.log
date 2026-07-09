@@ -1,0 +1,39 @@
+09-07-2026 19:22:44 [main.sh] [/run/media/yspad/sandisk/backup_data/ is mounted.] -  SUCCESS
+09-07-2026 19:22:44 [main.sh] [/run/media/yspad/sandisk/backup_data/ is mounted.] -  SUCCESS
+sending incremental file list
+p_project/backupsys/external_device01/
+p_project/backupsys/external_device01/.git/
+p_project/backupsys/external_device01/.git/COMMIT_EDITMSG
+p_project/backupsys/external_device01/.git/FETCH_HEAD
+p_project/backupsys/external_device01/.git/ORIG_HEAD
+p_project/backupsys/external_device01/.git/index
+p_project/backupsys/external_device01/.git/logs/HEAD
+p_project/backupsys/external_device01/.git/logs/refs/heads/main
+p_project/backupsys/external_device01/.git/logs/refs/remotes/origin/main
+p_project/backupsys/external_device01/.git/objects/
+p_project/backupsys/external_device01/.git/objects/44/
+p_project/backupsys/external_device01/.git/objects/44/b20ee780980e74ce4140dcfb0632c808b60cdc
+p_project/backupsys/external_device01/.git/objects/4a/
+p_project/backupsys/external_device01/.git/objects/4a/87d5c1b85eee3b5baa233132c983016fb6e9a6
+p_project/backupsys/external_device01/.git/objects/58/
+p_project/backupsys/external_device01/.git/objects/58/572820115ea832a0d2e0e8e12f928f05660426
+p_project/backupsys/external_device01/.git/objects/6d/
+p_project/backupsys/external_device01/.git/objects/6d/f393e95fd3da39003b27ea2831d2617388a4ab
+p_project/backupsys/external_device01/.git/objects/79/
+p_project/backupsys/external_device01/.git/objects/79/305cad1c03d0176f012c14defc358525d61339
+p_project/backupsys/external_device01/.git/objects/a4/
+p_project/backupsys/external_device01/.git/objects/a4/1722ccfc06269624d986e653e9fed395808d29
+p_project/backupsys/external_device01/.git/objects/c2/
+p_project/backupsys/external_device01/.git/objects/c2/2b7b05fcc3c6f26010c6b63cb9d4c33a03454b
+p_project/backupsys/external_device01/.git/refs/heads/
+p_project/backupsys/external_device01/.git/refs/heads/main
+p_project/backupsys/external_device01/.git/refs/remotes/origin/
+p_project/backupsys/external_device01/.git/refs/remotes/origin/main
+p_project/backupsys/external_device01/scripts/
+p_project/backupsys/external_device01/scripts/.gitignore
+p_project/backupsys/external_device01/test_log/
+p_project/backupsys/external_device01/test_log/test_backup01.log
+
+sent 60.922 bytes  received 972 bytes  123.788,00 bytes/sec
+total size is 2.182.404  speedup is 35,26
+09-07-2026 19:22:44 [main.sh] [backup process is successfully finished.] -  SUCCESS
