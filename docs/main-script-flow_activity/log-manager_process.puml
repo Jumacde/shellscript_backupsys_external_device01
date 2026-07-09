@@ -5,7 +5,7 @@ partition #PeachPuff  log_manager.sh {
                 prod: "sudo ENV=prod ./main.sh"
         end note
 
-        if (exit .env file?) then (yes)
+        if (exist .env file?) then (yes)
                 : export log path;
         else (no)
                 : show error message;
