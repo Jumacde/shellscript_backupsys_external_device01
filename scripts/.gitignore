@@ -1,1 +1,4 @@
+#hide .env
 .env
+#hide testlog
+/home/yspad/src/shellscript/p_project/backupsys/external_device01/test_log
